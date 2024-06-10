@@ -1,3 +1,16 @@
+"""
+* Randomness.py
+*
+* Description:
+* This program starts by demonstrating the numPy random number generator and its various
+* features. The program then samples random numbers from a variety of random sequences.
+*
+* The program also demonstrates the creation of the following distributions:
+* Standard Normal Distribution
+* Normal (Gaussian) Distribution
+* Chi-Square Distribution
+* Poisson Distribution
+"""
 
 import numpy as np
 import numpy.random as npr
