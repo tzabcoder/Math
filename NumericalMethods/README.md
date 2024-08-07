@@ -7,4 +7,5 @@ h is known as the *step size* and represents a small change in x.
 The slope of the secant line is: $(f(x+h)-f(x))/h$
 
 ### True Derivative
-The true derivative is $$\lim_{h\to\0} \(f(x+h)-f(x))/h$$
+The true derivative is:
+$$\lim_{h\to 0} \(f(x+h)-f(x))/h$$
